@@ -22,11 +22,6 @@ Technologies Utilisées :
 
 ## Configuration
 
-### Configuration de la Gateway
-- Port : 8088
-- Nom du service : gateway-service
-- URL d'enregistrement Eureka : http://localhost:8761/eureka/
-
 ### Configuration des Microservices
 
 ### Microservice Client
