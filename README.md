@@ -28,4 +28,4 @@ Technologies Utilisées :
 - URL d'enregistrement : http://localhost:8888/SERVICE-CLIENT/clients
 
 ### Microservice Voiture
-- URL d'enregistrement : http://localhost:8888/VOITURE-CLIENT/voiture
+- URL d'enregistrement : http://localhost:8888/SERVICE-VOITURE/voiture
